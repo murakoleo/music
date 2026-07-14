@@ -45,7 +45,8 @@
     { title: "Cherish (My Love)", singer: "ILLIT", src: "songs/ILLIT  Cherish My Love Official MV.mp3", cover: "images/cherish.jpg", color1: "#F7D6C1", color2: "#A86A4F", fav:false },
     { title: "烏", singer: "米津玄師", src: "songs/- Kenshi Yonezu - Karasu.mp3", cover: "images/karasu.jpg", color1: "#F7D6C1", color2: "#A86A4F", fav:false },
     { title: "アイノカタチ", singer: "竹中雄大 (cover)", src: "songs/- Performance VideoMISIA coverDIVA2026114 Release.mp3", cover: "images/ainokatati.jpg", color1: "#F7D6C1", color2: "#A86A4F", fav:false },
-    { title: "Jellyous", singer: "ILLIT", src: "songs/ILLIT (아일릿) 'jellyous’ Official MV.mp3", cover: "images/jellyous.jpg", color1: "#F7D6C1", color2: "#A86A4F", fav:false }
+    { title: "Jellyous", singer: "ILLIT", src: "songs/ILLIT (아일릿) 'jellyous’ Official MV.mp3", cover: "images/jellyous.jpg", color1: "#F7D6C1", color2: "#A86A4F", fav:false },
+    { title: "ICONIC BY MISTAKE", singer: "LE SSERAFIM,ILLIT,KATSEYE", src: "songs/LE SSERAFIM (르세라핌) x ILLIT (아일릿) x KATSEYE (캣츠아이) 'ICONIC BY MISTAKE' Official MV.mp3", cover: "images/mistake.jpg", color1: "#F7D6C1", color2: "#A86A4F", fav:false }
   ];0
 
   let currentIndex = 0;
