@@ -43,8 +43,9 @@
     { title: "Shape of you", singer: "Ed Sheeran", src: "songs/Ed Sheeran - Shape of You (Official Music Video).mp3", cover: "images/shapeofyou.jpg", color1: "#F7D6C1", color2: "#A86A4F", fav:false },
     { title: "STAY", singer: "The Kid LAROI, Justin Bieber", src: "songs/The Kid LAROI Justin Bieber - STAY Official Video.mp3", cover: "images/stay.jpg", color1: "#F7D6C1", color2: "#A86A4F", fav:false },
     { title: "Cherish (My Love)", singer: "ILLIT", src: "songs/ILLIT Cherish My Love Official MV.mp3", cover: "images/cherish.jpg", color1: "#F7D6C1", color2: "#A86A4F", fav:false },
-    { title: "烏", singer: "米津玄師", src: "songs/- Kenshi Yonezu - Karasu.mp3", cover: "images/karasu.jpg", color1: "#F7D6C1", color2: "#A86A4F", fav:false }
-  ];
+    { title: "烏", singer: "米津玄師", src: "songs/- Kenshi Yonezu - Karasu.mp3", cover: "images/karasu.jpg", color1: "#F7D6C1", color2: "#A86A4F", fav:false },
+    { title: "アイノカタチ", singer: "竹中雄大 (cover)", src: "songs/- Performance VideoMISIA coverDIVA2026114 Release.mp3", cover: "images/ainokatati.jpg", color1: "#F7D6C1", color2: "#A86A4F", fav:false }
+  ];0
 
   let currentIndex = 0;
   let isPlaying = false;
