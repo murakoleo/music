@@ -40,7 +40,8 @@
     { title: "Almond Chocolate", singer: "ILLIT", src: "songs/almond_chocolate.mp3", cover: "images/almond_chocolate.jpg", color1: "#F7D6C1", color2: "#A86A4F", fav:false },
     { title: "DREAMERS", singer: "Jungkook", src: "songs/dreamers.mp3", cover: "images/dreamers.jpg", color1: "#F7D6C1", color2: "#A86A4F", fav:false },
     { title: "Daidai", singer: "Shakira, Burna Boy", src: "songs/Shakira, Burna Boy - Dai Dai (Official Video).mp3", cover: "images/daidai.jpg", color1: "#F7D6C1", color2: "#A86A4F", fav:false },
-    { title: "Shape of you", singer: "Ed Sheeran", src: "songs/Ed Sheeran - Shape of You (Official Music Video).mp3", cover: "images/shapeofyou.jpg", color1: "#F7D6C1", color2: "#A86A4F", fav:false }
+    { title: "Shape of you", singer: "Ed Sheeran", src: "songs/Ed Sheeran - Shape of You (Official Music Video).mp3", cover: "images/shapeofyou.jpg", color1: "#F7D6C1", color2: "#A86A4F", fav:false },
+    { title: "STAY", singer: "The Kid LAROI, Justin Bieber", src: "songs/The Kid LAROI Justin Bieber - STAY Official Video.mp3", cover: "images/stay.jpg", color1: "#F7D6C1", color2: "#A86A4F", fav:false }
   ];
 
   let currentIndex = 0;
