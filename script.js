@@ -38,7 +38,8 @@
     { title: "It's Me", singer: "ILLIT", src: "songs/It's_Me.mp3", cover: "images/it'sme.jpg", color1: "#8FE3D7", color2: "#2D9CDB", fav:false },
     { title: "ツキミソウ", singer: "Novelbright", src: "songs/tukimisou.mp3", cover: "images/tukimisou.jpg", color1: "#CFE8FF", color2: "#6AA0FF", fav:false },
     { title: "Almond Chocolate", singer: "ILLIT", src: "songs/almond_chocolate.mp3", cover: "images/almond_chocolate.jpg", color1: "#F7D6C1", color2: "#A86A4F", fav:false },
-    { title: "DREAMERS", singer: "Jungkook", src: "songs/dreamers.mp3", cover: "images/dreamers.jpg", color1: "#F7D6C1", color2: "#A86A4F", fav:false }
+    { title: "DREAMERS", singer: "Jungkook", src: "songs/dreamers.mp3", cover: "images/dreamers.jpg", color1: "#F7D6C1", color2: "#A86A4F", fav:false },
+    { title: "Daidai", singer: "Shakira, Burna Boy", src: "songs/Shakira, Burna Boy - Dai Dai (Official Video).mp3", cover: "images/daidai.jpg", color1: "#F7D6C1", color2: "#A86A4F", fav:false }
   ];
 
   let currentIndex = 0;
